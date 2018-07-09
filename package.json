@@ -1,0 +1,34 @@
+{
+  "name": "plan-pro-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dhtmlx-scheduler": "^5.0.1",
+    "dnd-core": "^4.0.5",
+    "fullcalendar": "^3.9.0",
+    "fullcalendar-reactwrapper": "^1.0.7",
+    "fullcalendar-scheduler": "^1.9.4",
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1",
+    "moment": "^2.22.2",
+    "react": "^16.4.1",
+    "react-big-calendar": "^0.19.2",
+    "react-dnd": "^5.0.0",
+    "react-dnd-html5-backend": "^5.0.1",
+    "react-dom": "^16.4.1",
+    "react-dragndrop": "^1.1.15",
+    "react-player": "^1.6.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "scheduler-library": "^1.1.0",
+    "video-react": "^0.11.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

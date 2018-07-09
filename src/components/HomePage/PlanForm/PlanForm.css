@@ -1,0 +1,10 @@
+
+.w3-row-padding{ 
+    margin:0 -16px;
+}
+#div-margin-8{
+    margin:8px -16px;
+}
+.w3-display-container, .w3-content{
+    max-width:1500px;
+}
